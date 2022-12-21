@@ -1,2 +1,6 @@
 this is my first code to push in git to establish how coding sould be made up of everything going to be 
 with the helkp of git and gitup website we can make work easy
+git learned
+1. git init 
+2 .git add 
+3.git commit
